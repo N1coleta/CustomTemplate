@@ -1,7 +1,7 @@
 # CustomTemplate
 ## The custom template I will start using + how to create one in Visual Studio 2022 (mostly just for me in case I forget) 
 ### If you want to create your own custom project
-**Step 0:**
+**Step 0:**<br />
 Create the template, the starter project u want every time you start coding (for me, it includes a few libraries, but u can add whatever)   
 <br /> <br />
 **Step 1:**    <br />
